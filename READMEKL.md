@@ -18,7 +18,8 @@ __Bold__
 var word = "test";
 console.log("hello "+world);
 ```
-console.log("hi"+world);
+console.log("hi "+world);
+
 
 
 
